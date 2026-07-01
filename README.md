@@ -145,9 +145,7 @@ The proposed framework achieves:
 M.Sc. Data Science  
 Vellore Institute of Technology, Chennai
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile  
-💻 GitHub: https://github.com/your-github-username
+📧 Email: raghavavenkat49@gmail.com  
 
 ---
 
